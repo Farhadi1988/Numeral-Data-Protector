@@ -12,4 +12,4 @@ encrypted_text = encryption.encrypt(plain_text, key)
 print("encrypted_text: "+ encrypted_text+"\n\n")
 
 decrypted_text = encryption.decrypt(encrypted_text, key)
-print("decrypted_text: "+ decrypted_text+"\n\n")
+print("decrypted_text: "+ decrypted_text+"\n")
